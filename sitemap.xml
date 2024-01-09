@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.bh2vsq.cn/2024/01/09/2023%E5%B9%B4%E5%BE%97%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%96%E9%A1%B9%E6%80%BB%E7%BB%93/</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.bh2vsq.cn/about/index.html</loc>
     
     <lastmod>2024-01-08</lastmod>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://blog.bh2vsq.cn/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
