@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "風凪の猫窝",
+    "home_page_url": "https://blog.bh2vsq.cn/",
+    "feed_url": "https://blog.bh2vsq.cn/feed.json",
+    "description": "DE BH2VSQ!",
+    "icon": "https://blog.bh2vsq.cn/photos/favicon.jpg",
+    "author": {
+        "name": "風凪",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>这里是風凪，设立有B类业余无线电台，呼号BH2VSQ(也可以叫我VSQ)，平常会分享一些自己的电子制作或者其他项目。</p>\n<br/><p>访问 <a href=\"https://blog.bh2vsq.cn/posts/欢迎来到我的博客！\" target=\"_blank\">https://blog.bh2vsq.cn/posts/欢迎来到我的博客！</a> 阅读全文。</p>",
+            "url": "https://blog.bh2vsq.cn/posts/欢迎来到我的博客！",
+            "title": "欢迎来到我的博客！",
+            "date_modified": "2025-04-02T21:09:28.000Z",
+            "date_published": "2025-04-03T02:55:26.671Z",
+            "author": {
+                "name": "風凪",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
